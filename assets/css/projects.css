@@ -48,16 +48,17 @@
   }
   
   .project-container img {
-    width: 300px;
-    height: 200px;
+    width: 340px;
+    height: 300px;
     border-radius: 10px;
-    margin-top: 7px;
+    margin-top: 6px;
   }
   
   .project-container h2 {
     font-family: "Raleway", sans-serif;
     color: white;
-    margin: 12px 0px 5px 0px;
+    text-align:center;
+    /* margin: 12px 0px 5px 0px; */
   }
   
   .project-container div {
@@ -69,8 +70,9 @@
   
   .p-static {
     font-family: "Raleway", sans-serif;
-    color: grey;
-    margin: 0px 10px 0px 10px;
+    color: white;
+    justify-content: center;
+
   }
   
   .p-hover {
@@ -82,4 +84,8 @@
     color: grey;
     font-size: 80px;
     margin: 15px 0px 10px 0px;
+  }
+
+  .div-text {
+    justify-content: center;
   }
