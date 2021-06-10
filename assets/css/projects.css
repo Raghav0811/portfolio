@@ -49,9 +49,9 @@
   
   .project-container img {
     width: 340px;
-    height: 300px;
+    height: 180px;
     border-radius: 10px;
-    margin-top: 6px;
+    margin-top: 3px;
   }
   
   .project-container h2 {
