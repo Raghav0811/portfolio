@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Raghav0811/portfolio#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
